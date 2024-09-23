@@ -1,2 +1,1 @@
-# github.io
-Cyclistic Case Study (Google Data Analytics
+Google Data Analytics Capstone Project
